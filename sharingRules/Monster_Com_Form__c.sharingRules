@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SharingRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sharingCriteriaRules>
+        <fullName>Sharing_Rule_based_on_criteria</fullName>
+        <accessLevel>Edit</accessLevel>
+        <label>Sharing Rule based on criteria</label>
+        <sharedTo>
+            <role>CEO</role>
+        </sharedTo>
+        <criteriaItems>
+            <field>Experience__c</field>
+            <operation>greaterThan</operation>
+            <value>6</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+</SharingRules>

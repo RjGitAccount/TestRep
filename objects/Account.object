@@ -65,7 +65,6 @@
         <type>Default</type>
     </actionOverrides>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
-    <enableEnhancedLookup>true</enableEnhancedLookup>
     <enableFeeds>true</enableFeeds>
     <enableHistory>false</enableHistory>
     <fields>
@@ -109,24 +108,8 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
-        <fullName>ChannelProgramLevelName</fullName>
-    </fields>
-    <fields>
-        <fullName>ChannelProgramName</fullName>
-    </fields>
-    <fields>
         <fullName>CleanStatus</fullName>
         <trackFeedHistory>false</trackFeedHistory>
-    </fields>
-    <fields>
-        <fullName>CustomName__c</fullName>
-        <externalId>false</externalId>
-        <formula>HYPERLINK(&quot;http://google.com&quot;, &quot;Custom_Field&quot;)</formula>
-        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
-        <label>CustomLabel</label>
-        <required>false</required>
-        <type>Text</type>
-        <unique>false</unique>
     </fields>
     <fields>
         <fullName>CustomerPriority__c</fullName>
@@ -174,19 +157,21 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>ID__c</fullName>
+        <description>Description</description>
+        <displayFormat>Form-{000}</displayFormat>
+        <externalId>true</externalId>
+        <inlineHelpText>Help Text</inlineHelpText>
+        <label>ID</label>
+        <type>AutoNumber</type>
+    </fields>
+    <fields>
         <fullName>Industry</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Picklist</type>
     </fields>
     <fields>
-        <fullName>IsCustomerPortal</fullName>
-    </fields>
-    <fields>
         <fullName>IsExcludedFromRealign</fullName>
-        <trackFeedHistory>false</trackFeedHistory>
-    </fields>
-    <fields>
-        <fullName>IsPartner</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
@@ -296,6 +281,15 @@
         </valueSet>
     </fields>
     <fields>
+        <fullName>S_Number__c</fullName>
+        <description>Testing</description>
+        <displayFormat>{000}</displayFormat>
+        <externalId>true</externalId>
+        <inlineHelpText>Dear user:Please enter number</inlineHelpText>
+        <label>S Number</label>
+        <type>AutoNumber</type>
+    </fields>
+    <fields>
         <fullName>ShippingAddress</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
@@ -312,12 +306,6 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
-        <fullName>Test__c</fullName>
-        <externalId>false</externalId>
-        <label>Test</label>
-        <type>AutoNumber</type>
-    </fields>
-    <fields>
         <fullName>TickerSymbol</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
@@ -327,7 +315,6 @@
     </fields>
     <fields>
         <fullName>Type</fullName>
-        <inlineHelpText>text</inlineHelpText>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Picklist</type>
     </fields>
@@ -367,20 +354,8 @@
         <fullName>YearStarted</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
-    <fields>
-        <fullName>abcd__c</fullName>
-        <displayFormat>{000}</displayFormat>
-        <externalId>false</externalId>
-        <label>abcd</label>
-        <type>AutoNumber</type>
-    </fields>
     <listViews>
         <fullName>AllAccounts</fullName>
-        <columns>ACCOUNT.NAME</columns>
-        <columns>ACCOUNT.ACCOUNT_NUMBER</columns>
-        <columns>ACCOUNT.SITE</columns>
-        <columns>ACCOUNT.ADDRESS1_STREET</columns>
-        <columns>ACCOUNT.CREATED_DATE</columns>
         <filterScope>Everything</filterScope>
         <label>All Accounts</label>
     </listViews>

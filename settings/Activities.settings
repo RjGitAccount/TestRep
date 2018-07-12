@@ -17,5 +17,5 @@
     <showCustomLogoMeetingRequests>false</showCustomLogoMeetingRequests>
     <showEventDetailsMultiUserCalendar>false</showEventDetailsMultiUserCalendar>
     <showHomePageHoverLinksForEvents>true</showHomePageHoverLinksForEvents>
-    <showMyTasksHoverLinks>false</showMyTasksHoverLinks>
+    <showMyTasksHoverLinks>true</showMyTasksHoverLinks>
 </ActivitiesSettings>

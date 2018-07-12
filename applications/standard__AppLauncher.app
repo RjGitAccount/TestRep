@@ -3,15 +3,5 @@
     <defaultLandingTab>standard-home</defaultLandingTab>
     <formFactors>Large</formFactors>
     <tab>standard-AppLauncher</tab>
-    <tab>Trail__c</tab>
-    <tab>Student__c</tab>
-    <tab>Employees__c</tab>
-    <tab>Autorabit__c</tab>
-    <tab>standard-Quote</tab>
-    <tab>Parker_Pens__c</tab>
-    <tab>Computer__c</tab>
-    <tab>Placement_Information__c</tab>
-    <tab>Teacher__c</tab>
-    <tab>Company__c</tab>
-    <tab>Worker__c</tab>
+    <tab>Monster_Com_Form__c</tab>
 </CustomApplication>

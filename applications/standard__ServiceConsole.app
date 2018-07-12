@@ -167,80 +167,16 @@
         <location>full</location>
     </listPlacement>
     <listRefreshMethod>none</listRefreshMethod>
-    <liveAgentConfig>
-        <enableLiveChat>true</enableLiveChat>
-        <openNewAccountSubtab>false</openNewAccountSubtab>
-        <openNewCaseSubtab>true</openNewCaseSubtab>
-        <openNewContactSubtab>true</openNewContactSubtab>
-        <openNewLeadSubtab>false</openNewLeadSubtab>
-        <openNewVFPageSubtab>false</openNewVFPageSubtab>
-        <showKnowledgeArticles>true</showKnowledgeArticles>
-    </liveAgentConfig>
-    <pushNotifications>
-        <pushNotification>
-            <fieldNames>0</fieldNames>
-            <objectName>LiveAgentSession</objectName>
-        </pushNotification>
-        <pushNotification>
-            <fieldNames>0</fieldNames>
-            <objectName>LiveChatTranscript</objectName>
-        </pushNotification>
-        <pushNotification>
-            <fieldNames>0</fieldNames>
-            <objectName>LiveChatTranscriptEvent</objectName>
-        </pushNotification>
-        <pushNotification>
-            <fieldNames>0</fieldNames>
-            <objectName>LiveChatTranscriptSkill</objectName>
-        </pushNotification>
-    </pushNotifications>
     <saveUserSessions>true</saveUserSessions>
     <tab>standard-Account</tab>
     <tab>standard-Contact</tab>
     <tab>standard-Case</tab>
     <tab>standard-Opportunity</tab>
     <tab>standard-Lead</tab>
-    <tab>standard-Knowledge</tab>
-    <tab>Trail__c</tab>
-    <tab>Student__c</tab>
-    <tab>Employees__c</tab>
-    <tab>Autorabit__c</tab>
-    <tab>Parker_Pens__c</tab>
-    <tab>Computer__c</tab>
-    <tab>Placement_Information__c</tab>
-    <tab>Teacher__c</tab>
-    <tab>Company__c</tab>
-    <tab>Worker__c</tab>
+    <tab>Monster_Com_Form__c</tab>
     <workspaceMappings>
         <mapping>
-            <tab>Autorabit__c</tab>
-        </mapping>
-        <mapping>
-            <tab>Company__c</tab>
-        </mapping>
-        <mapping>
-            <tab>Computer__c</tab>
-        </mapping>
-        <mapping>
-            <tab>Employees__c</tab>
-        </mapping>
-        <mapping>
-            <tab>Parker_Pens__c</tab>
-        </mapping>
-        <mapping>
-            <tab>Placement_Information__c</tab>
-        </mapping>
-        <mapping>
-            <tab>Student__c</tab>
-        </mapping>
-        <mapping>
-            <tab>Teacher__c</tab>
-        </mapping>
-        <mapping>
-            <tab>Trail__c</tab>
-        </mapping>
-        <mapping>
-            <tab>Worker__c</tab>
+            <tab>Monster_Com_Form__c</tab>
         </mapping>
         <mapping>
             <tab>standard-Account</tab>
@@ -252,9 +188,6 @@
         <mapping>
             <fieldName>AccountId</fieldName>
             <tab>standard-Contact</tab>
-        </mapping>
-        <mapping>
-            <tab>standard-Knowledge</tab>
         </mapping>
         <mapping>
             <tab>standard-Lead</tab>

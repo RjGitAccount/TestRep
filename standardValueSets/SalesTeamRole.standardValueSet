@@ -17,19 +17,9 @@
         <label>Executive Sponsor</label>
     </standardValue>
     <standardValue>
-        <fullName>Jr Team Lead</fullName>
-        <default>false</default>
-        <label>Jr Team Lead</label>
-    </standardValue>
-    <standardValue>
         <fullName>Lead Qualifier</fullName>
         <default>false</default>
         <label>Lead Qualifier</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Pre-Sales Consultant</fullName>
-        <default>false</default>
-        <label>Pre-Sales Consultant</label>
     </standardValue>
     <standardValue>
         <fullName>Sales Manager</fullName>
@@ -37,18 +27,8 @@
         <label>Sales Manager</label>
     </standardValue>
     <standardValue>
-        <fullName>Sales Rep</fullName>
+        <fullName>Testing Manager</fullName>
         <default>false</default>
-        <label>Sales Rep</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Sr Team Lead</fullName>
-        <default>false</default>
-        <label>Sr Team Lead</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Team Lead</fullName>
-        <default>false</default>
-        <label>Team Lead</label>
+        <label>Testing Manager</label>
     </standardValue>
 </StandardValueSet>

@@ -184,10 +184,6 @@
         <type>Lookup</type>
     </fields>
     <fields>
-        <fullName>PartnerAccountId</fullName>
-        <type>Lookup</type>
-    </fields>
-    <fields>
         <fullName>Phone</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
@@ -289,6 +285,15 @@
             <value>1</value>
         </filters>
         <label>My Unread Leads</label>
+    </listViews>
+    <listViews>
+        <fullName>Testing_Lead</fullName>
+        <filterScope>Queue</filterScope>
+        <label>Testing</label>
+        <queue>Testing</queue>
+        <sharedTo>
+            <allInternalUsers></allInternalUsers>
+        </sharedTo>
     </listViews>
     <listViews>
         <fullName>TodaysLeads</fullName>

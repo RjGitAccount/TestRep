@@ -1,7 +1,5 @@
 Dear {!Contact.FirstName},
 
-www.google.com
-
 {!Case.Solution_Description}
 
 Thank you,

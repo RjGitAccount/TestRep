@@ -93,7 +93,6 @@
         <type>Default</type>
     </actionOverrides>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
-    <enableEnhancedLookup>false</enableEnhancedLookup>
     <enableFeeds>true</enableFeeds>
     <enableHistory>false</enableHistory>
     <fields>
@@ -111,10 +110,6 @@
     </fields>
     <fields>
         <fullName>Birthdate</fullName>
-        <trackFeedHistory>false</trackFeedHistory>
-    </fields>
-    <fields>
-        <fullName>CanAllowPortalSelfReg</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
@@ -239,13 +234,6 @@
         <fullName>ReportsToId</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Lookup</type>
-    </fields>
-    <fields>
-        <fullName>T__c</fullName>
-        <displayFormat>{000}</displayFormat>
-        <externalId>false</externalId>
-        <label>T</label>
-        <type>AutoNumber</type>
     </fields>
     <fields>
         <fullName>Title</fullName>

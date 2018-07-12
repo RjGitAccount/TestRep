@@ -26,7 +26,7 @@
         </feedFilters>
         <fullWidthFeed>true</fullWidthFeed>
         <hideSidebar>true</hideSidebar>
-        <highlightExternalFeedItems>true</highlightExternalFeedItems>
+        <highlightExternalFeedItems>false</highlightExternalFeedItems>
         <rightComponents>
             <componentType>HelpAndToolLinks</componentType>
         </rightComponents>
@@ -215,9 +215,6 @@
         </quickActionListItems>
         <quickActionListItems>
             <quickActionName>Case.LogACall</quickActionName>
-        </quickActionListItems>
-        <quickActionListItems>
-            <quickActionName>Case.CaseComment</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
             <quickActionName>Case.ChangeStatus</quickActionName>

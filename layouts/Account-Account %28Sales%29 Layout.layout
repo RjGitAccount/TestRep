@@ -47,15 +47,11 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Readonly</behavior>
-                <field>CustomName__c</field>
+                <field>ID__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Readonly</behavior>
-                <field>abcd__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Readonly</behavior>
-                <field>Test__c</field>
+                <field>S_Number__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
@@ -222,9 +218,6 @@
             <quickActionName>NewEvent</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
-            <quickActionName>FeedItem.ContentNote</quickActionName>
-        </quickActionListItems>
-        <quickActionListItems>
             <quickActionName>FeedItem.LinkPost</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
@@ -240,11 +233,6 @@
     <relatedContent>
         <relatedContentItems>
             <layoutItem>
-                <component>wits:newsPanel</component>
-            </layoutItem>
-        </relatedContentItems>
-        <relatedContentItems>
-            <layoutItem>
                 <component>runtime_sales_social:socialPanel</component>
             </layoutItem>
         </relatedContentItems>
@@ -253,8 +241,7 @@
         <fields>FULL_NAME</fields>
         <fields>CONTACT.TITLE</fields>
         <fields>CONTACT.EMAIL</fields>
-        <fields>CONTACT.BIRTHDATE</fields>
-        <fields>CLEAN_STATUS</fields>
+        <fields>CONTACT.PHONE1</fields>
         <relatedList>RelatedContactList</relatedList>
     </relatedLists>
     <relatedLists>

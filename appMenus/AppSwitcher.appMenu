@@ -41,23 +41,11 @@
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>standard__LightningSales</name>
+        <name>standard__LightningService</name>
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>Energy_Consultations</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>Agent_Console</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>Monster_Com_Appll</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>Parker_Pens</name>
+        <name>standard__LightningSalesConsole</name>
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>

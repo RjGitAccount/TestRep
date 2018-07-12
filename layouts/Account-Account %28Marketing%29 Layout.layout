@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Layout xmlns="http://soap.sforce.com/2006/04/metadata">
-    <excludeButtons>Submit</excludeButtons>
+    <emailDefault>false</emailDefault>
+    <headers>PersonalTagging</headers>
+    <headers>PublicTagging</headers>
     <layoutSections>
         <customLabel>false</customLabel>
         <detailHeading>false</detailHeading>
@@ -29,15 +31,11 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Readonly</behavior>
-                <field>CustomName__c</field>
+                <field>ID__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Readonly</behavior>
-                <field>abcd__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Readonly</behavior>
-                <field>Test__c</field>
+                <field>S_Number__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
@@ -179,10 +177,9 @@
         <style>OneColumn</style>
     </layoutSections>
     <layoutSections>
-        <customLabel>true</customLabel>
+        <customLabel>false</customLabel>
         <detailHeading>false</detailHeading>
         <editHeading>false</editHeading>
-        <label>Custom Links</label>
         <layoutColumns>
             <layoutItems>
                 <customLink>Billing</customLink>
@@ -212,6 +209,9 @@
             <quickActionName>LogACall</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
+            <quickActionName>NewNote</quickActionName>
+        </quickActionListItems>
+        <quickActionListItems>
             <quickActionName>NewOpportunity</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
@@ -233,11 +233,6 @@
     <relatedContent>
         <relatedContentItems>
             <layoutItem>
-                <component>wits:newsPanel</component>
-            </layoutItem>
-        </relatedContentItems>
-        <relatedContentItems>
-            <layoutItem>
                 <component>runtime_sales_social:socialPanel</component>
             </layoutItem>
         </relatedContentItems>
@@ -246,8 +241,7 @@
         <fields>FULL_NAME</fields>
         <fields>CONTACT.TITLE</fields>
         <fields>CONTACT.EMAIL</fields>
-        <fields>CONTACT.BIRTHDATE</fields>
-        <fields>CLEAN_STATUS</fields>
+        <fields>CONTACT.PHONE1</fields>
         <relatedList>RelatedContactList</relatedList>
     </relatedLists>
     <relatedLists>
@@ -297,16 +291,14 @@
         <fields>PARTNER.ROLE</fields>
         <relatedList>RelatedPartnerList</relatedList>
     </relatedLists>
+    <relatedLists>
+        <relatedList>RelatedAccountSalesTeam</relatedList>
+    </relatedLists>
     <relatedObjects>ParentId</relatedObjects>
-    <showEmailCheckbox>false</showEmailCheckbox>
+    <runAssignmentRulesDefault>false</runAssignmentRulesDefault>
+    <showEmailCheckbox>true</showEmailCheckbox>
     <showHighlightsPanel>false</showHighlightsPanel>
     <showInteractionLogPanel>false</showInteractionLogPanel>
-    <showRunAssignmentRulesCheckbox>false</showRunAssignmentRulesCheckbox>
+    <showRunAssignmentRulesCheckbox>true</showRunAssignmentRulesCheckbox>
     <showSubmitAndAttachButton>false</showSubmitAndAttachButton>
-    <summaryLayout>
-        <masterLabel>00h36000000yxk5</masterLabel>
-        <sizeX>4</sizeX>
-        <sizeY>0</sizeY>
-        <summaryLayoutStyle>Default</summaryLayoutStyle>
-    </summaryLayout>
 </Layout>

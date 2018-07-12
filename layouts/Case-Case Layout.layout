@@ -3,14 +3,10 @@
     <emailDefault>false</emailDefault>
     <feedLayout>
         <autocollapsePublisher>true</autocollapsePublisher>
-        <compactFeed>true</compactFeed>
+        <compactFeed>false</compactFeed>
         <feedFilterPosition>LeftFixed</feedFilterPosition>
         <feedFilters>
             <feedFilterType>AllUpdates</feedFilterType>
-        </feedFilters>
-        <feedFilters>
-            <feedFilterType>FeedItemType</feedFilterType>
-            <feedItemType>CaseCommentPost</feedItemType>
         </feedFilters>
         <feedFilters>
             <feedFilterType>FeedItemType</feedFilterType>
@@ -51,6 +47,7 @@
         </rightComponents>
         <useInlineFiltersInConsole>false</useInlineFiltersInConsole>
     </feedLayout>
+    <headers>PersonalTagging</headers>
     <headers>PublicTagging</headers>
     <layoutSections>
         <customLabel>false</customLabel>
@@ -228,9 +225,6 @@
         </quickActionListItems>
         <quickActionListItems>
             <quickActionName>Case.LogACall</quickActionName>
-        </quickActionListItems>
-        <quickActionListItems>
-            <quickActionName>Case.CaseComment</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
             <quickActionName>Case.ChangeStatus</quickActionName>

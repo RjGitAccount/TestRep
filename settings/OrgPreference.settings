@@ -58,7 +58,7 @@
     </preferences>
     <preferences>
         <settingName>NetworksEnabled</settingName>
-        <settingValue>true</settingValue>
+        <settingValue>false</settingValue>
     </preferences>
     <preferences>
         <settingName>VoiceEnabled</settingName>
@@ -142,7 +142,7 @@
     </preferences>
     <preferences>
         <settingName>S1DesktopEnabled</settingName>
-        <settingValue>true</settingValue>
+        <settingValue>false</settingValue>
     </preferences>
     <preferences>
         <settingName>UsersAreLightningOnly</settingName>
@@ -154,7 +154,7 @@
     </preferences>
     <preferences>
         <settingName>NotesReservedPref01</settingName>
-        <settingValue>true</settingValue>
+        <settingValue>false</settingValue>
     </preferences>
     <preferences>
         <settingName>AnalyticsSharingEnable</settingName>
