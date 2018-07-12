@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Business Contact</fullName>
+        <default>false</default>
+        <label>Business Contact</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Decision Maker</fullName>
+        <default>true</default>
+        <label>Decision Maker</label>
+    </standardValue>
+    <standardValue>
+        <fullName>New Contact</fullName>
+        <default>false</default>
+        <label>New Contact</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Technical Contact</fullName>
+        <default>false</default>
+        <label>Technical Contact</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Testing Manager</fullName>
+        <default>false</default>
+        <label>Testing Manager</label>
+    </standardValue>
+</StandardValueSet>
