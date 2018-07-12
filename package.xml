@@ -628,14 +628,7 @@
         <members>Event.WhoId</members>
         <members>Idea.Categories</members>
         <members>Idea.Status</members>
-        <members>IdeaTheme.Categories</members>
-        <members>IdeaTheme.CommunityId</members>
-        <members>IdeaTheme.Description</members>
-        <members>IdeaTheme.EndDate</members>
-        <members>IdeaTheme.IdeaCount</members>
-        <members>IdeaTheme.StartDate</members>
-        <members>IdeaTheme.Status</members>
-        <members>IdeaTheme.Title</members>
+        <members>July_Training__c.Name__c</members>
         <members>Lead.Address</members>
         <members>Lead.AnnualRevenue</members>
         <members>Lead.CampaignId</members>
@@ -1142,8 +1135,7 @@
         <members>FeedItem</members>
         <members>ForecastingCategoryMapping</members>
         <members>Idea</members>
-        <members>IdeaTheme</members>
-        <members>Knowledge__kav</members>
+        <members>July_Training__c</members>
         <members>Lead</members>
         <members>LeadCleanInfo</members>
         <members>LinkedArticle</members>
@@ -1378,8 +1370,7 @@
         <members>FeedItem-Feed Item Layout</members>
         <members>Global-Global Layout</members>
         <members>Idea-Idea Layout</members>
-        <members>IdeaTheme-Idea Theme Layout</members>
-        <members>Knowledge__kav-Knowledge Layout</members>
+        <members>July_Training__c-July Training Layout</members>
         <members>Lead-Lead %28Marketing%29 Layout</members>
         <members>Lead-Lead %28Sales%29 Layout</members>
         <members>Lead-Lead %28Support%29 Layout</members>
