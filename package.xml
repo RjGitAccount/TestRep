@@ -413,6 +413,7 @@
         <members>IGM_C_Object__c.IGM_Obj__c</members>
         <members>Idea.Categories</members>
         <members>Idea.Status</members>
+        <members>July_Training__c.Name__c</members>
         <members>Lead.Address</members>
         <members>Lead.AnnualRevenue</members>
         <members>Lead.CampaignId</members>
@@ -678,6 +679,7 @@
         <members>IGM_C_Object__c</members>
         <members>IGM__c</members>
         <members>Idea</members>
+        <members>July_Training__c</members>
         <members>Lead</members>
         <members>LeadCleanInfo</members>
         <members>Macro</members>
@@ -803,6 +805,7 @@
         <members>IGM_C_Object__c-IGM C Object Layout</members>
         <members>IGM__c-IGM Obj Layout</members>
         <members>Idea-Idea Layout</members>
+        <members>July_Training__c-July Training Layout</members>
         <members>Lead-Lead %28Marketing%29 Layout</members>
         <members>Lead-Lead %28Sales%29 Layout</members>
         <members>Lead-Lead %28Support%29 Layout</members>
