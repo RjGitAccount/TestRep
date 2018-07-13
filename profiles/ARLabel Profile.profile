@@ -1109,6 +1109,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>July_Practice__c.First_Name__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>July_Training__c.Name__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -2579,6 +2584,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Knowledge__kav-Knowledge Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>July_Practice__c-July Practice Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>July_Training__c-July Training Layout</layout>
