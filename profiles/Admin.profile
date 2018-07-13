@@ -886,6 +886,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>July_Practice__c.First_Name__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>July_Training__c.Name__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1421,6 +1426,9 @@
         <layout>Idea-Idea Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>July_Practice__c-July Practice Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>July_Training__c-July Training Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1562,6 +1570,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>Idea</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>July_Practice__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
