@@ -1366,6 +1366,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>VC_Practice1__c.Last_Name__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>VC_Practice__c.First_Name__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1479,6 +1484,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>UserProvisioningRequest-User Provisioning Request Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>VC_Practice1__c-VC Practice1 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>VC_Practice__c-VC Practice Layout</layout>
