@@ -651,6 +651,8 @@
         <members>UserProvisioningRequest.UserProvAccountId</members>
         <members>UserTerritory2Association.RoleInTerritory2</members>
         <members>VC_Practice1__c.Last_Name__c</members>
+        <members>VC_Practice2__c.Description__c</members>
+        <members>VC_Practice2__c.Name__c</members>
         <members>VC_Practice__c.First_Name__c</members>
         <name>CustomField</name>
     </types>
@@ -724,6 +726,7 @@
         <members>UserProvisioningRequest</members>
         <members>UserTerritory2Association</members>
         <members>VC_Practice1__c</members>
+        <members>VC_Practice2__c</members>
         <members>VC_Practice__c</members>
         <name>CustomObject</name>
     </types>
@@ -847,6 +850,7 @@
         <members>UserProvisioningLog-User Provisioning Log Layout</members>
         <members>UserProvisioningRequest-User Provisioning Request Layout</members>
         <members>VC_Practice1__c-VC Practice1 Layout</members>
+        <members>VC_Practice2__c-VC Practice2 Layout</members>
         <members>VC_Practice__c-VC Practice Layout</members>
         <name>Layout</name>
     </types>
