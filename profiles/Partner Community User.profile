@@ -1374,6 +1374,16 @@
         <field>VC_Practice2__c.Name__c</field>
         <readable>false</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>VC_Practice3__c.Age__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>VC_Practice3__c.Name__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Account-Account Layout</layout>
     </layoutAssignments>
@@ -1487,6 +1497,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>VC_Practice2__c-VC Practice2 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>VC_Practice3__c-VC Practice3 Layout</layout>
     </layoutAssignments>
     <objectPermissions>
         <allowCreate>true</allowCreate>
