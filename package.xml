@@ -1855,6 +1855,7 @@
     </types>
     <types>
         <members>Account.Billing</members>
+        <members>Autorabit__c.Test</members>
         <members>Campaign.ViewCampaignInfluenceReport</members>
         <members>Case.UpsellCrosssellOpportunity</members>
         <members>Monster_Com_Forms__c.My_Demo_Button</members>
