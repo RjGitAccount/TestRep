@@ -643,6 +643,10 @@
         <members>Territory2Model.LastRunRulesEndDate</members>
         <members>Territory2Model.Name</members>
         <members>Territory2Model.State</members>
+        <members>Test_Object__c.Category__c</members>
+        <members>Test_Object__c.Experience__c</members>
+        <members>Test_Object__c.First_Name__c</members>
+        <members>Test_Object__c.Subject__c</members>
         <members>User.ManagerId</members>
         <members>UserProvisioningRequest.AppName</members>
         <members>UserProvisioningRequest.ApprovalStatus</members>
@@ -729,6 +733,7 @@
         <members>Task</members>
         <members>Territory2</members>
         <members>Territory2Model</members>
+        <members>Test_Object__c</members>
         <members>Topic</members>
         <members>TopicAssignment</members>
         <members>User</members>
@@ -820,6 +825,7 @@
         <members>Contact-Contact Layout</members>
         <members>ContentVersion-Content Version Layout</members>
         <members>Contract-Contract Layout</members>
+        <members>Custom_Object__c-Custom Object Layout</members>
         <members>DandBCompany-D%26B Company Layout</members>
         <members>DuplicateRecordItem-Duplicate Record Item Layout</members>
         <members>DuplicateRecordSet-Duplicate Record Set Layout</members>
@@ -856,6 +862,7 @@
         <members>Solution-Solution Layout</members>
         <members>Task-Task Layout</members>
         <members>Territory2Model-Territory Model Layout</members>
+        <members>Test_Object__c-Test Object Layout</members>
         <members>User-User Layout</members>
         <members>UserProvAccount-User Provisioning Account Layout</members>
         <members>UserProvisioningLog-User Provisioning Log Layout</members>
