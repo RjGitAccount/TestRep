@@ -647,6 +647,8 @@
         <members>Test_Object__c.Experience__c</members>
         <members>Test_Object__c.First_Name__c</members>
         <members>Test_Object__c.Subject__c</members>
+        <members>Testing__c.Age__c</members>
+        <members>Testing__c.First_Name__c</members>
         <members>User.ManagerId</members>
         <members>UserProvisioningRequest.AppName</members>
         <members>UserProvisioningRequest.ApprovalStatus</members>
@@ -734,6 +736,7 @@
         <members>Territory2</members>
         <members>Territory2Model</members>
         <members>Test_Object__c</members>
+        <members>Testing__c</members>
         <members>Topic</members>
         <members>TopicAssignment</members>
         <members>User</members>
@@ -863,6 +866,7 @@
         <members>Task-Task Layout</members>
         <members>Territory2Model-Territory Model Layout</members>
         <members>Test_Object__c-Test Object Layout</members>
+        <members>Testing__c-Testing Layout</members>
         <members>User-User Layout</members>
         <members>UserProvAccount-User Provisioning Account Layout</members>
         <members>UserProvisioningLog-User Provisioning Log Layout</members>
