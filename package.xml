@@ -54,6 +54,7 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>ABC__c.Last_Name__c</members>
         <members>AR__c.Name__c</members>
         <members>Account.AccountNumber</members>
         <members>Account.AccountSource</members>
@@ -572,6 +573,11 @@
         <members>Product2.RevenueInstallmentPeriod</members>
         <members>Product2.RevenueScheduleType</members>
         <members>Product2.StockKeepingUnit</members>
+        <members>Product__c.Amount__c</members>
+        <members>Product__c.Category__c</members>
+        <members>Product__c.Colors__c</members>
+        <members>Product__c.Product_Name__c</members>
+        <members>Product__c.Quantity__c</members>
         <members>QuickText.Category</members>
         <members>QuickText.Channel</members>
         <members>QuickText.Message</members>
@@ -672,6 +678,7 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>ABC__c</members>
         <members>AR__c</members>
         <members>Account</members>
         <members>AccountCleanInfo</members>
@@ -725,6 +732,7 @@
         <members>Pricebook2</members>
         <members>PricebookEntry</members>
         <members>Product2</members>
+        <members>Product__c</members>
         <members>QuickText</members>
         <members>RecordAction</members>
         <members>Scorecard</members>
@@ -809,6 +817,7 @@
         <name>HomePageLayout</name>
     </types>
     <types>
+        <members>ABC__c-ABC Layout</members>
         <members>AR__c-AR Layout</members>
         <members>Account-Account %28Marketing%29 Layout</members>
         <members>Account-Account %28Sales%29 Layout</members>
@@ -862,6 +871,7 @@
         <members>Pricebook2-Price Book Layout</members>
         <members>PricebookEntry-Price Book Entry Layout</members>
         <members>Product2-Product Layout</members>
+        <members>Product__c-Product Layout</members>
         <members>Scorecard-Scorecard Layout</members>
         <members>ScorecardAssociation-Scorecard Association Layout</members>
         <members>ScorecardMetric-Scorecard Metric Layout</members>
