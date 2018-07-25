@@ -54,6 +54,7 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>AR__c.Name__c</members>
         <members>Account.AccountNumber</members>
         <members>Account.AccountSource</members>
         <members>Account.Active__c</members>
@@ -671,6 +672,7 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>AR__c</members>
         <members>Account</members>
         <members>AccountCleanInfo</members>
         <members>AccountContactRole</members>
@@ -807,6 +809,7 @@
         <name>HomePageLayout</name>
     </types>
     <types>
+        <members>AR__c-AR Layout</members>
         <members>Account-Account %28Marketing%29 Layout</members>
         <members>Account-Account %28Sales%29 Layout</members>
         <members>Account-Account %28Support%29 Layout</members>
