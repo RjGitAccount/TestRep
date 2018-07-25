@@ -199,6 +199,11 @@
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
+        <field>AR__c.Name__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Account.AccountNumber</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -2537,6 +2542,9 @@
         <field>Testing__c.First_Name__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <layoutAssignments>
+        <layout>AR__c-AR Layout</layout>
+    </layoutAssignments>
     <layoutAssignments>
         <layout>Account-Account Layout</layout>
     </layoutAssignments>

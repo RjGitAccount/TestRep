@@ -127,6 +127,7 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>AR__c.Name__c</members>
         <members>Account.AccountNumber</members>
         <members>Account.AccountSource</members>
         <members>Account.Active__c</members>
