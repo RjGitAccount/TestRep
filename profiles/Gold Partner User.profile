@@ -1698,6 +1698,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>false</editable>
+        <field>Roja_Test__c.Name__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>true</editable>
         <field>Monster_Com_Forms__c.Languages_Known__c</field>
         <readable>true</readable>

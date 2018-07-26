@@ -2689,6 +2689,9 @@
         <recordType>RecordType__c.RecordOne</recordType>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Roja_Test__c-Roja Test Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Scorecard-Scorecard Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
