@@ -45,32 +45,23 @@
     <deploymentStatus>Deployed</deploymentStatus>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
+    <enableChangeDataCapture>false</enableChangeDataCapture>
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableReports>false</enableReports>
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <fields>
-        <fullName>First_Name__c</fullName>
-        <externalId>false</externalId>
-        <label>First Name</label>
-        <length>20</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <label>Sample</label>
+    <label>RecordType</label>
     <nameField>
-        <label>Sample Test Name</label>
+        <label>RecordType Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Samples</pluralLabel>
+    <pluralLabel>RecordTypes</pluralLabel>
     <recordTypes>
-        <fullName>Demo_Record</fullName>
+        <fullName>RecordOne</fullName>
         <active>true</active>
-        <label>Demo Record</label>
+        <label>RecordOne</label>
     </recordTypes>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>

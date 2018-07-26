@@ -737,6 +737,7 @@
         <members>Product__c</members>
         <members>QuickText</members>
         <members>RecordAction</members>
+        <members>RecordType__c</members>
         <members>Sample_Test__c</members>
         <members>Scorecard</members>
         <members>ScorecardAssociation</members>
@@ -876,6 +877,7 @@
         <members>PricebookEntry-Price Book Entry Layout</members>
         <members>Product2-Product Layout</members>
         <members>Product__c-Product Layout</members>
+        <members>RecordType__c-RecordType Layout</members>
         <members>Sample_Test__c-Sample Layout</members>
         <members>Scorecard-Scorecard Layout</members>
         <members>ScorecardAssociation-Scorecard Association Layout</members>
@@ -1042,6 +1044,8 @@
     </types>
     <types>
         <members>Idea.InternalIdeasIdeaRecordType</members>
+        <members>RecordType__c.RecordOne</members>
+        <members>Sample_Test__c.Demo_Record</members>
         <name>RecordType</name>
     </types>
     <types>

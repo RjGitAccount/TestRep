@@ -1596,6 +1596,13 @@
         <layout>Product__c-Product Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>RecordType__c-RecordType Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>RecordType__c-RecordType Layout</layout>
+        <recordType>RecordType__c.RecordOne</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Sample_Test__c-Sample Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1868,6 +1875,15 @@
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
+        <object>RecordType__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
         <object>Sample_Test__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
@@ -1956,6 +1972,16 @@
         <default>false</default>
         <recordType>Idea.InternalIdeasIdeaRecordType</recordType>
         <visible>false</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>RecordType__c.RecordOne</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>Sample_Test__c.Demo_Record</recordType>
+        <visible>true</visible>
     </recordTypeVisibilities>
     <tabVisibilities>
         <tab>Monster_Com_Form__c</tab>
