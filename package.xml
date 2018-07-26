@@ -1170,6 +1170,7 @@
         <members>Practice2__c</members>
         <members>Pricebook2</members>
         <members>PricebookEntry</members>
+        <members>Prodct__c</members>
         <members>Product2</members>
         <members>QuickText</members>
         <members>Quote</members>
@@ -1399,6 +1400,7 @@
         <members>Practice2__c-Practice2 Layout</members>
         <members>Pricebook2-Price Book Layout</members>
         <members>PricebookEntry-Price Book Entry Layout</members>
+        <members>Prodct__c-Product Layout</members>
         <members>Product2-Product Layout</members>
         <members>QuickText-Quick Text Layout</members>
         <members>Quote-Quote Layout</members>
