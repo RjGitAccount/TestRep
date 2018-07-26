@@ -1204,10 +1204,12 @@
     </types>
     <types>
         <members>Autorabit__c.Field_Update</members>
+        <members>Product__c.FUpdate</members>
         <name>WorkflowFieldUpdate</name>
     </types>
     <types>
         <members>Autorabit__c.Test Rule</members>
+        <members>Product__c.ProductRule</members>
         <name>WorkflowRule</name>
     </types>
 </Package>
