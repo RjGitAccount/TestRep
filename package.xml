@@ -964,6 +964,7 @@
         <name>ListView</name>
     </types>
     <types>
+        <members>DemoPermission</members>
         <members>Permission_set_for_Kamna</members>
         <name>PermissionSet</name>
     </types>
@@ -987,6 +988,7 @@
         <members>Customer Community User</members>
         <members>Customer Portal Manager Custom</members>
         <members>Customer Portal Manager Standard</members>
+        <members>DemoProfile</members>
         <members>External Identity User</members>
         <members>Force%2Ecom - App Subscription User</members>
         <members>Force%2Ecom - Free User</members>
