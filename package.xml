@@ -1627,6 +1627,8 @@
     </types>
     <types>
         <members>Idea.InternalIdeasIdeaRecordType</members>
+        <members>RecordType__c.RecordOne</members>
+        <members>Sample_Test__c.Demo_Record</members>
         <name>RecordType</name>
     </types>
     <types>

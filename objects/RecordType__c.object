@@ -45,18 +45,24 @@
     <deploymentStatus>Deployed</deploymentStatus>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
+    <enableChangeDataCapture>false</enableChangeDataCapture>
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableReports>false</enableReports>
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <label>Energy Audit</label>
+    <label>RecordType</label>
     <nameField>
-        <label>Energy A Name</label>
+        <label>RecordType Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Energy Audits</pluralLabel>
+    <pluralLabel>RecordTypes</pluralLabel>
+    <recordTypes>
+        <fullName>RecordOne</fullName>
+        <active>true</active>
+        <label>RecordOne</label>
+    </recordTypes>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
