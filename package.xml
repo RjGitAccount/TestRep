@@ -4,8 +4,11 @@
     <types>
         <members>AccountCreation</members>
         <members>AccountCreationTest</members>
+        <members>AcctCreation</members>
         <members>MySampleApexClass</members>
         <members>SomeClass</members>
+        <members>contactcreate</members>
+        <members>contactcreatetest</members>
         <members>roja2</members>
         <name>ApexClass</name>
     </types>
@@ -734,6 +737,7 @@
         <members>Practice2__c</members>
         <members>Pricebook2</members>
         <members>PricebookEntry</members>
+        <members>Prodct__c</members>
         <members>Product2</members>
         <members>Product__c</members>
         <members>QuickText</members>
@@ -773,6 +777,7 @@
     <types>
         <members>IGM__c</members>
         <members>Monster_Com_Form__c</members>
+        <members>Prodct__c</members>
         <name>CustomTab</name>
     </types>
     <types>
@@ -877,6 +882,7 @@
         <members>Practice2__c-Practice2 Layout</members>
         <members>Pricebook2-Price Book Layout</members>
         <members>PricebookEntry-Price Book Entry Layout</members>
+        <members>Prodct__c-Product Layout</members>
         <members>Product2-Product Layout</members>
         <members>Product__c-Product Layout</members>
         <members>RecordType__c-RecordType Layout</members>
@@ -953,6 +959,7 @@
         <members>Order.AllActivatedOrders</members>
         <members>Order.AllDraftOrders</members>
         <members>Order.AllOrders</members>
+        <members>Prodct__c.All</members>
         <members>Product2.AllProducts</members>
         <members>Scorecard.AllScorecards</members>
         <members>Scorecard.MyScorecards</members>
@@ -1202,15 +1209,18 @@
         <members>Campaign.ViewCampaignInfluenceReport</members>
         <members>Case.UpsellCrosssellOpportunity</members>
         <members>Opportunity.DeliveryStatus</members>
+        <members>Prodct__c.DemoLink</members>
         <name>WebLink</name>
     </types>
     <types>
         <members>Autorabit__c.Field_Update</members>
+        <members>Prodct__c.FUpdate</members>
         <members>Product__c.FUpdate</members>
         <name>WorkflowFieldUpdate</name>
     </types>
     <types>
         <members>Autorabit__c.Test Rule</members>
+        <members>Prodct__c.ProductRule</members>
         <members>Product__c.ProductRule</members>
         <name>WorkflowRule</name>
     </types>
