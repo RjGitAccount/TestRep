@@ -675,6 +675,7 @@
         <members>VC_Practice3__c.Age__c</members>
         <members>VC_Practice3__c.Name__c</members>
         <members>VC_Practice__c.First_Name__c</members>
+        <members>XYZ__c.First_Name__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -756,6 +757,7 @@
         <members>VC_Practice2__c</members>
         <members>VC_Practice3__c</members>
         <members>VC_Practice__c</members>
+        <members>XYZ__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -888,6 +890,7 @@
         <members>VC_Practice2__c-VC Practice2 Layout</members>
         <members>VC_Practice3__c-VC Practice3 Layout</members>
         <members>VC_Practice__c-VC Practice Layout</members>
+        <members>XYZ__c-XYZ Layout</members>
         <name>Layout</name>
     </types>
     <types>
