@@ -1381,6 +1381,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Sample_Test__c.First_Name__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>SocialPersona.SourceApp</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1563,6 +1568,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Product__c-Product Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Sample_Test__c-Sample Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Scorecard-Scorecard Layout</layout>
