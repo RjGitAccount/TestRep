@@ -1381,6 +1381,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Roja_Test__c.Name__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Sample_Test__c.First_Name__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1568,6 +1573,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Product__c-Product Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Roja_Test__c-Roja Test Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Sample_Test__c-Sample Layout</layout>

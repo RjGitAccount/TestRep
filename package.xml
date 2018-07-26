@@ -589,6 +589,7 @@
         <members>RecordAction.Pinned</members>
         <members>RecordAction.RecordId</members>
         <members>RecordAction.Status</members>
+        <members>Roja_Test__c.Name__c</members>
         <members>Sample_Test__c.First_Name__c</members>
         <members>Scorecard.Description</members>
         <members>Scorecard.Name</members>
@@ -738,6 +739,7 @@
         <members>QuickText</members>
         <members>RecordAction</members>
         <members>RecordType__c</members>
+        <members>Roja_Test__c</members>
         <members>Sample_Test__c</members>
         <members>Scorecard</members>
         <members>ScorecardAssociation</members>
@@ -878,6 +880,7 @@
         <members>Product2-Product Layout</members>
         <members>Product__c-Product Layout</members>
         <members>RecordType__c-RecordType Layout</members>
+        <members>Roja_Test__c-Roja Test Layout</members>
         <members>Sample_Test__c-Sample Layout</members>
         <members>Scorecard-Scorecard Layout</members>
         <members>ScorecardAssociation-Scorecard Association Layout</members>
@@ -965,6 +968,7 @@
         <name>PermissionSet</name>
     </types>
     <types>
+        <members>AR Profile</members>
         <members>Admin</members>
         <members>Analytics Cloud Integration User</members>
         <members>Analytics Cloud Security User</members>

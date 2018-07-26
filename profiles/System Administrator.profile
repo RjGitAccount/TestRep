@@ -1376,6 +1376,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Roja_Test__c.Name__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>SocialPersona.SourceApp</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1529,6 +1534,9 @@
     <layoutAssignments>
         <layout>RecordType__c-RecordType Layout</layout>
         <recordType>RecordType__c.RecordOne</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Roja_Test__c-Roja Test Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Scorecard-Scorecard Layout</layout>

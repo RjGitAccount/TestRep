@@ -1404,6 +1404,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Roja_Test__c.Name__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Sample_Test__c.First_Name__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1601,6 +1606,9 @@
     <layoutAssignments>
         <layout>RecordType__c-RecordType Layout</layout>
         <recordType>RecordType__c.RecordOne</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Roja_Test__c-Roja Test Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Sample_Test__c-Sample Layout</layout>
@@ -1876,6 +1884,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>RecordType__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Roja_Test__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
