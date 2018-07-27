@@ -2874,6 +2874,11 @@
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>true</default>
+        <recordType>Prodct__c.DemRecord</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>true</default>
         <recordType>RecordType__c.RecordOne</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
