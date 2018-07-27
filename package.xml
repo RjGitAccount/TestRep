@@ -5,12 +5,19 @@
         <members>AccountCreation</members>
         <members>AccountCreationTest</members>
         <members>AcctCreation</members>
+        <members>CommunitiesLoginController</members>
+        <members>CommunitiesLoginControllerTest</members>
         <members>MySampleApexClass</members>
+        <members>RestrictByName_Test</members>
         <members>SomeClass</members>
         <members>contactcreate</members>
         <members>contactcreatetest</members>
         <members>roja2</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>RestrictByName</members>
+        <name>ApexTrigger</name>
     </types>
     <types>
         <members>AppSwitcher</members>
