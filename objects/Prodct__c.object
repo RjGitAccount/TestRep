@@ -157,6 +157,11 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Prodcts</pluralLabel>
+    <recordTypes>
+        <fullName>DemRecord</fullName>
+        <active>true</active>
+        <label>DemRecord</label>
+    </recordTypes>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
