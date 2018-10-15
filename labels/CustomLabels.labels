@@ -1,39 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
-        <fullName>Demo</fullName>
+        <fullName>AssignmentLabel</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>URL Testing</shortDescription>
-        <value>na30.salesforce.com</value>
-    </labels>
-    <labels>
-        <fullName>DemoTest</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>DemoTest</shortDescription>
-        <value>na30.salesforce.com</value>
-    </labels>
-    <labels>
-        <fullName>Label1</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>New Labe2</shortDescription>
-        <value>https://na30.salesforce.com</value>
-    </labels>
-    <labels>
-        <fullName>Label2</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>New Label2</shortDescription>
-        <value>na30.salesforce.com</value>
-    </labels>
-    <labels>
-        <fullName>test_label1</fullName>
-        <categories>1,2,3,</categories>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>Testing</shortDescription>
-        <value>500</value>
+        <shortDescription>AssignmentLabel</shortDescription>
+        <value>This is my assignment laebl</value>
     </labels>
 </CustomLabels>
