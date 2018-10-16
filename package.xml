@@ -815,6 +815,7 @@
         <members>unfiled$public/DeactivationEmail</members>
         <members>unfiled$public/InvitationEmail</members>
         <members>unfiled$public/MarketingProductInquiryResponse</members>
+        <members>unfiled$public/My_Template</members>
         <members>unfiled$public/RejectionEmail</members>
         <members>unfiled$public/SUPPORTSelfServiceNewCommentNotificationSAMPLE</members>
         <members>unfiled$public/SUPPORTSelfServiceNewUserLoginInformationSAMPLE</members>
