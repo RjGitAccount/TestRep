@@ -12,6 +12,15 @@
         <senderType>CurrentUser</senderType>
         <template>unfiled$public/My_Template</template>
     </alerts>
+    <fieldUpdates>
+        <fullName>FU</fullName>
+        <field>Approval_Status__c</field>
+        <literalValue>Pending</literalValue>
+        <name>FU</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Literal</operation>
+        <protected>false</protected>
+    </fieldUpdates>
     <rules>
         <fullName>AR Assignment1</fullName>
         <actions>

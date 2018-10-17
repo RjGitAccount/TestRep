@@ -1243,6 +1243,7 @@
         <name>WorkflowAlert</name>
     </types>
     <types>
+        <members>AR_Assignment__c.FU</members>
         <members>Autorabit__c.Field_Update</members>
         <members>Prodct__c.FUpdate</members>
         <members>Product__c.FUpdate</members>
