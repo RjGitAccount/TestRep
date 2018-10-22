@@ -6,8 +6,7 @@
         <description>Test email</description>
         <protected>false</protected>
         <recipients>
-            <recipient>broja03@gmail.com</recipient>
-            <type>user</type>
+            <type>accountOwner</type>
         </recipients>
         <senderType>CurrentUser</senderType>
         <template>unfiled$public/My_Template</template>
