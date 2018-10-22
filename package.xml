@@ -1244,6 +1244,9 @@
     </types>
     <types>
         <members>AR_Assignment__c.FU</members>
+        <members>AR_Assignment__c.FU1</members>
+        <members>AR_Assignment__c.FU3</members>
+        <members>AR_Assignment__c.FU4</members>
         <members>Autorabit__c.Field_Update</members>
         <members>Prodct__c.FUpdate</members>
         <members>Product__c.FUpdate</members>
